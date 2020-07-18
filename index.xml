@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nonthawat Duangchai</title>
+    <link>http://n0nz.github.io/</link>
+    <description>Recent content on Nonthawat Duangchai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://n0nz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://n0nz.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://n0nz.github.io/about/</guid>
+      <description>Hi there 👋 I&amp;rsquo;m a Backend Developer working in KASIKORN Business - Technology Group, Thailand.
+ 🔭 I’m currently working at KASIKORN Business - Technology Group, Thailand 💻 I daily use: Go, Jenkins, Docker, Kubernetes, OpenShift, MongoDB, Redis, Shell Script ⌨️ Apps I use: IntelliJ IDEA, GoLand, VS Code, iTerm 2, Zsh, oh-my-zsh, Powerlevel10k, BetterTouchTools, Karabiner, Keyboard Maestro, Alfred, Spotify 🚀 Colorscheme I use: Dracula Pro, Monokai Pro, Molokai, GitHub Primer ⚙️ Setup: Macbook Pro 15&amp;rdquo; 2019, Keychron K4, Logiech MX Masters 2S 🌱 I’m currently learning Open Source Project, Automation 💬 Ask me about anything 📫 How to reach me: twitter.</description>
+    </item>
+    
+    <item>
+      <title>Uses</title>
+      <link>http://n0nz.github.io/uses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://n0nz.github.io/uses/</guid>
+      <description>Hello World! Here are the lists of my tools I daily use for software development and gaming 👋  My daily use:  Computer: Macbook Pro 15&amp;rdquo; 2019 Phone: Apple iPhone X Tablet: Apple iPad Pro 10.5 Watch: Garmin Forerunner 245 Sound: Apple AirPods 2 Backpack: The North Face Router   My software development setup:  Computer: Macbook Pro 15&amp;rdquo; 2019 Mouse: Logitech MX Master 2S Mousepad: Some random mousepad~ Keyboard: Keychron K4 Red Switch Sound: Apple AirPods 2 Monitor: Dell U2417H   Software I daily use for software development:  VSCode: The awesome text editor I mostly use for text editing.</description>
+    </item>
+    
+  </channel>
+</rss>
