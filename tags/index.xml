@@ -10,5 +10,86 @@
 	<atom:link href="https://n0nz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Color Scheme</title>
+      <link>https://n0nz.github.io/tags/color-scheme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://n0nz.github.io/tags/color-scheme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://n0nz.github.io/tags/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://n0nz.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub Primer</title>
+      <link>https://n0nz.github.io/tags/github-primer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://n0nz.github.io/tags/github-primer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://n0nz.github.io/tags/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://n0nz.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GoLand</title>
+      <link>https://n0nz.github.io/tags/goland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://n0nz.github.io/tags/goland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://n0nz.github.io/tags/golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://n0nz.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IntelliJ</title>
+      <link>https://n0nz.github.io/tags/intellij/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://n0nz.github.io/tags/intellij/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molokai</title>
+      <link>https://n0nz.github.io/tags/molokai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://n0nz.github.io/tags/molokai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oceanic Next</title>
+      <link>https://n0nz.github.io/tags/oceanic-next/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://n0nz.github.io/tags/oceanic-next/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

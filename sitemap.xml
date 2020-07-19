@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://n0nz.github.io/project/project1/</loc>
+  </url>
+  
+  <url>
     <loc>https://n0nz.github.io/about/</loc>
   </url>
   
@@ -11,7 +15,15 @@
   </url>
   
   <url>
+    <loc>https://n0nz.github.io/project/project2/</loc>
+  </url>
+  
+  <url>
     <loc>https://n0nz.github.io/uses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://n0nz.github.io/project/project3/</loc>
   </url>
   
   <url>
@@ -19,7 +31,47 @@
   </url>
   
   <url>
+    <loc>https://n0nz.github.io/tags/color-scheme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://n0nz.github.io/tags/github/</loc>
+  </url>
+  
+  <url>
+    <loc>https://n0nz.github.io/tags/github-primer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://n0nz.github.io/tags/go/</loc>
+  </url>
+  
+  <url>
+    <loc>https://n0nz.github.io/tags/goland/</loc>
+  </url>
+  
+  <url>
+    <loc>https://n0nz.github.io/tags/golang/</loc>
+  </url>
+  
+  <url>
+    <loc>https://n0nz.github.io/tags/intellij/</loc>
+  </url>
+  
+  <url>
+    <loc>https://n0nz.github.io/tags/molokai/</loc>
+  </url>
+  
+  <url>
     <loc>https://n0nz.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://n0nz.github.io/tags/oceanic-next/</loc>
+  </url>
+  
+  <url>
+    <loc>https://n0nz.github.io/project/</loc>
   </url>
   
   <url>

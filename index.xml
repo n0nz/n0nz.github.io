@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>GitHub Primer GoLand</title>
+      <link>https://n0nz.github.io/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://n0nz.github.io/project/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://n0nz.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,12 +39,30 @@
     </item>
     
     <item>
+      <title>Molokai Colorscheme for IntelliJ</title>
+      <link>https://n0nz.github.io/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://n0nz.github.io/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Uses</title>
       <link>https://n0nz.github.io/uses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://n0nz.github.io/uses/</guid>
       <description>Hello World! Here are the lists of my tools I daily use for software development and gaming 👋  My daily use:  Computer: Macbook Pro 15&amp;rdquo; 2019 Phone: Apple iPhone X Tablet: Apple iPad Pro 10.5 Watch: Garmin Forerunner 245 Sound: Apple AirPods 2 Backpack: The North Face Router   My software development setup:  Computer: Macbook Pro 15&amp;rdquo; 2019 Mouse: Logitech MX Master 2S Mousepad: Some random mousepad~ Keyboard: Keychron K4 Red Switch Sound: Apple AirPods 2 Monitor: Dell U2417H   Software I daily use for software development:  VSCode: The awesome text editor I mostly use for text editing.</description>
+    </item>
+    
+    <item>
+      <title>Oceanic Next for JetBrains IDE</title>
+      <link>https://n0nz.github.io/project/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://n0nz.github.io/project/project3/</guid>
+      <description></description>
     </item>
     
   </channel>
